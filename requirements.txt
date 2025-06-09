@@ -1,0 +1,13 @@
+youtube-transcript-api 
+langchain-community 
+langchain-openai
+faiss-cpu 
+tiktoken 
+python-dotenv
+langchain_groq
+langdetect
+langchain_huggingface
+streamlit
+bs4
+agno
+chromadb
